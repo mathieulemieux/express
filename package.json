@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mathieulemieux/express/issues"
   },
-  "homepage": "https://github.com/mathieulemieux/express#readme"
+  "homepage": "https://github.com/mathieulemieux/express#readme",
+  "engines": {
+    "node": "12.16.x"
+  }
 }
